@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "photo":"222.jpg",
+    "name":"m.meenakshi",
+    "phone":"9398233565",
+    "email":"menthemmeenakshi@gmail.com"
+  },
+  "skills":[
+    {
+      "name":"programming languages",
+      "value":"C,C++,JAVA"
+    },
+    {
+      "name":"operating systems",
+      "value":"windows,Linux"
+    },
+    {
+      "name":"Web technologies",
+      "value":"HTMl,CSS,JAVA SCRIPT,PYTHON"
+    }
+  ],
+"education":[
+  {
+    "course":"B-tech(computer science and engineering)",
+    "college":[
+      "sri venkateswara institute of technology",
+      "2015-2019",
+      "72%"
+    ]
+  },
+  {
+    "course":"Intermediate",
+    "college":[
+      "sri chaitanya junior college",
+      "2013-2015",
+      "78%"
+  ]
+},
+{
+  "course":"SSC",
+  "college":[
+    "Raos eng med high school",
+    "2012-2013",
+    "88%"
+]
+}
+]
+}
